@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Anderson Vilela 👋
 
 Eu sou um desenvolvedor focado em criar soluções eficientes e interfaces intuitivas. Atualmente, dedico meus estudos ao aprimoramento de engenharia de software e automação.
@@ -25,34 +23,33 @@ Eu sou um desenvolvedor focado em criar soluções eficientes e interfaces intui
 </p>
 
 ---
-<!--
-### 🛠️ Projetos Recentes
 
-**[Nome do Projeto 1]** (Tecnologia ex: React)
-Breve descrição do projeto, qual problema ele resolve e quais as principais funcionalidades.
-[Link para o repositório ou Live Demo]
+### 🛠️ Projetos
 
-**[Nome do Projeto 2]** (Tecnologia ex: Python)
-Breve descrição do projeto, destacando o que você desenvolveu e o impacto da solução.
-[Link para o repositório ou Live Demo]
--->
+**[Cinematch](https://github.com/Anderson-Vilela-op/Cinematch)** (Python)
+Sistema de recomendação de filmes e séries por similaridade de cosseno, a partir do catálogo da Netflix.
+
+**[locmovie](https://github.com/Anderson-Vilela-op/locmovie)** (C# / ASP.NET Core)
+API REST de uma locadora de filmes, com autenticação JWT e PostgreSQL.
+
+**[portisteam](https://github.com/Anderson-Vilela-op/portisteam)** (SvelteKit)
+Portfólio pessoal com identidade visual inspirada na Steam.
+
+**[border-radius-customizer](https://github.com/Anderson-Vilela-op/border-radius-customizer)** (JavaScript)
+Ferramenta para ajustar visualmente o raio da borda de um elemento e copiar o CSS gerado.
+
 ---
 
 ### 🎓 Certificados & Aprendizado
 
-Aqui estão os cursos que concluí e o que estou estudando no momento:
-
-- **[C# COMPLETO Programação Orientada a Objetos + Projetos
-]** — [Visualizar Certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-59ac6ed2-c0d0-4ff8-9611-fb86c5cc2a08.pdf)
-
-- **[.NET Core: um curso orientado para o mercado de trabalho.
-]** — [Visualizar Certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-dd617d72-c76b-441f-9bab-fd95ea2787bb.pdf)
+- **C# COMPLETO — Programação Orientada a Objetos + Projetos** — [ver certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-59ac6ed2-c0d0-4ff8-9611-fb86c5cc2a08.pdf)
+- **.NET Core: um curso orientado para o mercado de trabalho** — [ver certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-dd617d72-c76b-441f-9bab-fd95ea2787bb.pdf)
 
 ---
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/anderson-lucas-vilela/))
+- **LinkedIn:** [anderson-lucas-vilela](https://www.linkedin.com/in/anderson-lucas-vilela/)
 - **E-mail:** vilelasoftware0@gmail.com
 
 ---
