@@ -55,7 +55,7 @@ Gerenciador de processos/serviços para Neovim: descobre automaticamente projeto
 </td>
 <td width="55%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Anderson-Vilela-op/procman.nvim/main/assets/emo.png" width="100%">
+<img src="https://github.com/Anderson-Vilela-op/procman.nvim/blob/main/assets/screenshot-2026-08-19_01-34-00.png" width="100%">
 
 </td>
 </tr>
