@@ -4,7 +4,7 @@
 
 ### Desenvolvedor de Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=3F6C4D&center=true&vCenter=true&width=520&lines=Backend+em+C%23+%2F+.NET+e+Python;APIs%2C+autentica%C3%A7%C3%A3o+e+bancos+relacionais;Aprendendo+algo+novo+toda+semana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=3F6C4D&center=true&vCenter=true&width=520&lines=Full-Stack+em+C%23+%2F+.NET+,+Python+e+React;APIs%2C+autentica%C3%A7%C3%A3o+e+bancos+relacionais;Aprendendo+algo+novo+toda+semana)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lucas-vilela/)
 [![Email](https://img.shields.io/badge/vilelasoftware0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vilelasoftware0@gmail.com)
@@ -13,7 +13,7 @@
 
 <br>
 
-Desenvolvedor focado em backend — APIs, autenticação e modelagem de dados — com interesse crescente em arquitetura de sistemas e automação. Gosto de entender o problema antes da solução e de deixar o código simples de ler seis meses depois.
+Desenvolvedor focado em Full-Stack — APIs, autenticação e modelagem de dados e interfaces — com interesse crescente em arquitetura de sistemas e automação. Gosto de entender o problema antes da solução e de deixar o código simples de ler seis meses depois.
 
 <br>
 
@@ -35,14 +35,42 @@ Desenvolvedor focado em backend — APIs, autenticação e modelagem de dados �
 
 <br>
 
-## Projetos em destaque
+## 🚀 Projeto em destaque
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### [procman.nvim](https://github.com/Anderson-Vilela-op/procman.nvim)
+
+Gerenciador de processos/serviços para Neovim: descobre automaticamente projetos Node, .e deixa iniciar, parar, reiniciar e monitorar múltiplos serviços de dev (ex: `backend` +
+`frontend` + `worker`) num único painel, com logs por serviço e uso de memória.
+
+`Lua` `Neovim`
+
+[![CI](https://github.com/Anderson-Vilela-op/procman.nvim/actions/workflows/test.yml/badge.svg)](https://github.com/Anderson-Vilela-op/procman.nvim/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Anderson-Vilela-op/procman.nvim/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Anderson-Vilela-op/procman.nvim?style=social)](https://github.com/Anderson-Vilela-op/procman.nvim)
+
+</td>
+<td width="55%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Anderson-Vilela-op/procman.nvim/main/assets/emo.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Outros projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎬 [Cinematch](https://github.com/Anderson-Vilela-op/Cinematch)
-Sistema de recomendação de filmes e séries: transforma elenco, diretor, país e gênero em vetores binários e recomenda por similaridade de cosseno sobre o catálogo da Netflix.
+Sistema de recomendação de filmes e séries: transforma elenco, diretor, país e gênero em por similaridade de cosseno sobre o catálogo da Netflix.
 
 `Python` `pandas` `numpy`
 
@@ -50,7 +78,7 @@ Sistema de recomendação de filmes e séries: transforma elenco, diretor, país
 <td width="50%" valign="top">
 
 ### 🎞️ [locmovie](https://github.com/Anderson-Vilela-op/locmovie)
-API REST de uma locadora de filmes — cadastro, autenticação JWT e aluguéis, com Entity Framework Core sobre PostgreSQL e documentação via Swagger.
+API REST de uma locadora de filmes — cadastro, autenticação JWT e aluguéis, com Entity FL e documentação via Swagger.
 
 `C#` `ASP.NET Core` `PostgreSQL` `JWT`
 
@@ -60,7 +88,7 @@ API REST de uma locadora de filmes — cadastro, autenticação JWT e aluguéis,
 <td width="50%" valign="top">
 
 ### 🕹️ [portisteam](https://github.com/Anderson-Vilela-op/portisteam)
-Portfólio pessoal com identidade visual inspirada na Steam, construído com componentes organizados em camadas (templates → pages → organisms).
+Portfólio pessoal com identidade visual inspirada na Steam, construído com componentes otes → pages → organisms).
 
 `SvelteKit` `TypeScript`
 
@@ -83,7 +111,7 @@ Ferramenta que ajusta visualmente o raio de cada canto de um elemento em tempo r
 <div align="center">
 
 <img src="https://ghstats.dev/api/card?username=Anderson-Vilela-op&theme=tokyonight&size=compact" alt="GitHub Stats Card" />
-<img src="https://ghstats.dev/api/langs?username=Anderson-Vilela-op&theme=tokyonight" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=Anderson-Vilela-op&theme=tokyonight" al
 
 <img src="https://ghstats.dev/api/sparkline?username=Anderson-Vilela-op&theme=tokyonight&days=30&width=680&height=80" alt="Contribution Sparkline" />
 
@@ -93,7 +121,7 @@ Ferramenta que ajusta visualmente o raio de cada canto de um elemento em tempo r
 
 ## Certificações
 
-- **C# Completo — Programação Orientada a Objetos + Projetos** — [ver certificado](./certs/UC-59ac6ed2-c0d0-4ff8-9611-fb86c5cc2a08.pdf)
+- **C# Completo — Programação Orientada a Objetos + Projetos** — [ver certificado](./cer-fb86c5cc2a08.pdf)
 - **.NET Core — orientado para o mercado de trabalho** — [ver certificado](./certs/UC-dd617d72-c76b-441f-9bab-fd95ea2787bb.pdf)
 
 <br>
@@ -103,6 +131,6 @@ Ferramenta que ajusta visualmente o raio de cada canto de um elemento em tempo r
 *"O aprendizado é o único investimento que nunca perde o valor."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lucas-vilela/)
-[![Email](https://img.shields.io/badge/vilelasoftware0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vilelasoftware0@gmail.com)
+[![Email](https://img.shields.io/badge/vilelasoftware0%40gmail.com-D14836?style=flat-sque)](mailto:vilelasoftware0@gmail.com)
 
 </div>
